@@ -1,4 +1,4 @@
-mailReceivers:
+receivers:
   - project: ProjectA
     receiveMail:
       - admin
