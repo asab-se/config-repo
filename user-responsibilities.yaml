@@ -1,0 +1,11 @@
+responsibilities:
+  - userMail: alex@asab-se.de
+    userRoles:
+      - project: ProjectA
+        role: admin
+      - project: ProjectB
+        role: manager
+  - userMail: alex.sabau@rwth-aachen.de
+    userRoles:
+      - project: ProjectA
+        role: manager

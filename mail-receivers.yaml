@@ -1,0 +1,9 @@
+mailReceivers:
+  - project: ProjectA
+    receiveMail:
+      - admin
+      - manager
+    approveReport:
+      - admin
+    receiveMailUserMails:
+      - vegaaaa@gmx.de
